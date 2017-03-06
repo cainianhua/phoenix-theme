@@ -535,6 +535,11 @@
         "settings": ["phoenix_sidebar_font_xlarge"],
         "font.size": 14.0
     },
+    {
+        "class": "sidebar_label",
+        "settings": ["phoenix_sidebar_font_xxlarge"],
+        "font.size": 16.0
+    },
     // Sidebar folder entry
     {
         "class": "sidebar_label",
